@@ -1,0 +1,22 @@
+{
+  "name": "webstarter",
+  "version": "1.0.0",
+  "description": "Web Starter Pack",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp liveServer"
+  },
+  "author": "Sheikh Riyad",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
